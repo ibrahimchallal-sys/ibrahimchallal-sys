@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CSSBATTLE!**
 
-- 🌱 I’m currently learning **REACT/NATIV,TAILWIND**
+- 🌱 I’m currently learning **MONGODB,NUMPY**
 
 - 📫 How to reach me **i.challal9970@gmail.com**
 
