@@ -5,9 +5,9 @@
 <center>
   
 
-- 🔭 I’m currently working on **CSSBATTLE!**
+- 🔭 I’m currently working on **TOGETHER!**
 
-- 🌱 I’m currently learning **MONGODB,NUMPY**
+- 🌱 I’m currently learning **YOLLO,TYPESCRIPT**
 
 - 📫 How to reach me **i.challal9970@gmail.com**
 
